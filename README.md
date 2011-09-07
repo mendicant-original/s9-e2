@@ -47,8 +47,7 @@ Red November:
   - Rules that create tension between slowing down immediate danger and
     collecting all the needed resources
 - Create your own unique theme, don't copy the scenarios from the example games
-- To get credit for this assignment, your game must at least implement
-  a single player mode which fully demonstrates the game setup and the
+- Implement at least a single player mode which demonstrates the game setup and the
   different actions that can take place on a turn.
 
 ## Submission Guidelines
