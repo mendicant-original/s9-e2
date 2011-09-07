@@ -39,7 +39,7 @@ Red November:
 
 - http://boardgamegeek.com/boardgame/36946/red-november
 
-## What to do
+## Summary of what to do
 
 - Design and model a game with the following features:
   - A map which can be represented as a graph structure
