@@ -7,7 +7,9 @@ My wife and I play a lot of board games. After getting beat, time and time
 again, I decided it was time to find some games where we could work together.
 After experimenting with a few, we quickly found our two favorites: Pandemic
 and Forbidden Island. But now that we've played them so much, we're looking for
-more. That's where you come in. During this assignment, your going to create
+more. That's where you come in. 
+
+During this assignment, you are going to create
 your own cooperative board game using similar mechanics to those in Pandemic
 and Forbidden Island. You should attempt to model the game and let a single
 player play a few turns via the console. You don't need fancy graphics or
