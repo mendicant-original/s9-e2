@@ -39,7 +39,7 @@ Red November:
 
 - http://boardgamegeek.com/boardgame/36946/red-november
 
-## Summary of what to do
+## Exercise Summary
 
 - Design and model a game with the following features:
   - A map which can be represented as a graph structure
@@ -52,3 +52,10 @@ Red November:
 - To get credit for this assignment, your game must at least implement
   a single player mode which fully demonstrates the game setup and the
   different actions that can take place on a turn.
+
+## Submission Guidelines
+
+If you plan to work on this exercise, you should fork this repository 
+and push code early and often during the course. The course 
+guidelines PDF explains the submission process in detail, but please 
+contact an instructor if you have any questions.
