@@ -39,8 +39,8 @@ Red November:
 
 - http://boardgamegeek.com/boardgame/36946/red-november
 
-Summary
--------
+## The challenge
+
 - Design and model a game with the following features:
   - A map which can be represented as a graph structure
   - Rules that result in exponentially increasing danger as the game progresses
