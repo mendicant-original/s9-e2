@@ -15,11 +15,10 @@ and Forbidden Island. You should attempt to model the game and let a single
 player play a few turns via the console. You don't need fancy graphics or
 visual design.
 
-Below are some links to videos and/or rules for each of the games. Also
-included are references to some other cooperative games if you find 
-yourself needing more inspiration.
-
 ## Examples of chaotic cooperative games with exponential elements
+
+Below are some links to videos and/or rules for several games that you can draw
+inspiration from.
 
 Pandemic:
 
@@ -47,8 +46,7 @@ Red November:
   - Resources which players must collect repeatedly in sets to win the game
   - Rules that create tension between slowing down immediate danger and
     collecting all the needed resources
-- Create your own unique theme, don't copy the scenarios found in Pandemic or
-  Forbidden Island.
+- Create your own unique theme, don't copy the scenarios from the example games
 - To get credit for this assignment, your game must at least implement
   a single player mode which fully demonstrates the game setup and the
   different actions that can take place on a turn.
