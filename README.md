@@ -34,12 +34,14 @@ Other Games
 
 Summary
 -------
-- Design and model a game with the following
-  - Node based map
-  - Exponentially increasing danger
-  - Player(s) must collect X of something Y times to beat the game
-  - Give player choice of slowing dangerous situation in place of collecting
-    all needed items.
-- Use Pandemic and Forbidden Island (or similar games) as inspiration.
-- Create your own unique theme.
-- At least a single player must be able to start a game and play a few turns.
+- Design and model a game with the following features:
+  - A map which can be represented as a graph structure
+  - Rules that result in exponentially increasing danger as the game progresses
+  - Resources which players must collect repeatedly in sets to win the game
+  - Rules that create tension between slowing down immediate danger and
+    collecting all the needed resources
+- Create your own unique theme, don't copy the scenarios found in Pandemic or
+  Forbidden Island.
+- To get credit for this assignment, your game must at least implement
+  a single player mode which fully demonstrates the game setup and the
+  different actions that can take place on a turn.
