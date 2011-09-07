@@ -14,8 +14,8 @@ player play a few turns via the console. You don't need fancy graphics or
 design.
 
 Below are some links to videos and/or rules for each of the games. Also
-included are references to some other coop games if you find yourself needing
-more inspiration.
+included are references to some other cooperative games if you find 
+yourself needing more inspiration.
 
 Pandemic
 --------
