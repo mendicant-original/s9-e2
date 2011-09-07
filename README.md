@@ -19,20 +19,25 @@ Below are some links to videos and/or rules for each of the games. Also
 included are references to some other cooperative games if you find 
 yourself needing more inspiration.
 
-Pandemic
---------
+## Examples of chaotic cooperative games with exponential elements
+
+Pandemic:
+
 - http://www.youtube.com/watch?v=5JxMh1FP4b0
 - http://www.zmangames.com/boardgames/pandemic.htm
 - http://www.youtube.com/watch?v=6vaJhiht8NA&feature=fvst
 
-Forbidden Island
-----------------
+Forbidden Island:
+
 - http://www.youtube.com/watch?v=aYVOTPsWeN4
 
-Other Games
------------
-- Ghost Stories: http://boardgamegeek.com/boardgame/37046/ghost-stories
-- Red November: http://boardgamegeek.com/boardgame/36946/red-november
+Ghost Stories: 
+
+- http://boardgamegeek.com/boardgame/37046/ghost-stories
+
+Red November: 
+
+- http://boardgamegeek.com/boardgame/36946/red-november
 
 Summary
 -------
