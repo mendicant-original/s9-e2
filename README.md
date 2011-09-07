@@ -11,7 +11,7 @@ more. That's where you come in. During this assignment, your going to create
 your own cooperative board game using similar mechanics to those in Pandemic
 and Forbidden Island. You should attempt to model the game and let a single
 player play a few turns via the console. You don't need fancy graphics or
-design.
+visual design.
 
 Below are some links to videos and/or rules for each of the games. Also
 included are references to some other cooperative games if you find 
